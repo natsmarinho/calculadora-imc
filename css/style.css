@@ -21,6 +21,7 @@ h1{
     margin-right: 450px;
     background: #f2ffe9;
     border-radius: 10px;
+    box-shadow: 8px 5px 5px rgb(223, 255, 223);
 }
 
 #resultado{
