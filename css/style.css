@@ -1,0 +1,54 @@
+@charset "UTF-8";
+
+body{
+    font-family: 'Courier New', Courier, monospace;
+    background-image: linear-gradient(180deg, #ffffc0 0, #f2f29d 50%, #cfd97b 100%);
+    font-weight: bolder;
+    background-attachment: fixed;
+}
+
+h1{
+    text-align: center;
+    font-size: 30pt;
+}
+
+.form{
+    display: block;
+    text-align: center;
+    margin-top: 50px;
+    border: 1px solid ;
+    margin-left: 450px;
+    margin-right: 450px;
+    background: #f2ffe9;
+    border-radius: 10px;
+}
+
+#resultado{
+    border: 1px solid #000000;
+    border-radius: 10px;
+    padding: 40px;
+    margin: 20px 25px 20px 25px;
+}
+
+.height, .weight{
+    margin-top: 30px;
+}
+
+.formulario{
+    margin-bottom: 1px;
+}
+
+.circular{
+    border-radius: 10px;
+    border: 1px solid #000000;
+}
+
+#calcular{
+    margin-top: 20px;
+    padding: 5px;
+    font-size: 15pt;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+    border-radius: 10px;
+    border: 1px solid #000000;
+}
